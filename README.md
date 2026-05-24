@@ -194,6 +194,6 @@ The report contains 4 interactive pages:
 
 **Sakiru Akinpelu**  
 Vega IT Interview Assignment — Super Store Sales Analysis  
-2025
+2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-SakiruAkinpelu-181717?style=flat&logo=github)](https://github.com/SakiruAkinpelu)
